@@ -1,2 +1,0 @@
-# hostingOnAzure
-hosting On Azure
